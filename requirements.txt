@@ -1,0 +1,13 @@
+ ###### Install modules by running pip command with this file ###################
+ ############## As: py -m pip install -r ./dir/requirements.txt #################
+ flask
+ pyresparser
+ requests
+ python-docx
+ numpy
+ pandas
+ ftfy
+ nltk
+ scikit-learn
+ tabula-py
+ fitz
